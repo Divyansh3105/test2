@@ -2,6 +2,7 @@ hello
 hi
 abc
 <<<<<<< HEAD
+<<<<<<< HEAD
 ha
 1234
 =======
@@ -12,3 +13,7 @@ s
 s
 
 >>>>>>> new
+=======
+hello
+hi
+>>>>>>> new1
