@@ -1,5 +1,14 @@
 hello
 hi
 abc
+<<<<<<< HEAD
 ha
 1234
+=======
+helloo\
+a
+a
+s
+s
+
+>>>>>>> new
